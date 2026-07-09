@@ -1,10 +1,10 @@
 ### Site Settings ###
-title: digiisle
+title: kanebyqian
 description: >- 
   Just do it.
 baseurl: ""
 url: ""
-repository: digiisle/digiisle.github.io
+repository: kanebyqian/kanebyqian.github.io
 
 ### categories、tags path ###
 archive_dir: pages/archive
@@ -28,10 +28,10 @@ nav_exclude:
 
 ### Author Info ###
 author:
-  name              : digiisle
+  name              : kane
   image             : https://s2.loli.net/2022/03/22/JyQx6VB8vIiZsr2.jpg
   email             : kane.qyk@outlook.com
-  github            : digiisle
+  github            : kanebyqian
 # twitter           : your_username
 # linkedin          : your_username
 # facebook          : your_username
@@ -60,9 +60,9 @@ comments:
   gitalk:
     clientID    : 1e87a852118b89bf0689 # GitHub Application Client ID
     clientSecret: ffd6d23fb05c906bc5ace64db6fc403bb8d38316 # GitHub Application Client Secret
-    repository  : digiisle.github.io # GitHub repo
-    owner       : digiisle # GitHub repo owner
-    admin: digiisle # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+    repository  : kanebyqian.github.io # GitHub repo
+    owner       : kanebyqian # GitHub repo owner
+    admin: kanebyqian # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
 
   ### Valine ###
   # please refer to https://valine.js.org/en/ for more info.
@@ -118,9 +118,9 @@ defaults:
 permalink: blog/:title
 
 ### About Footer ###
-sitelink: https://digiisle.github.io/
-repositoryurl: https://github.com/digiisle/digiisle.github.io
-zipurl: https://github.com/digiisle/digiisle.github.io/archive/refs/heads/master.zip
+sitelink: https://kanebyqian.github.io/
+repositoryurl: https://github.com/kanebyqian/kanebyqian.github.io
+zipurl: https://github.com/kanebyqian/kanebyqian.github.io/archive/refs/heads/master.zip
 
 
 ### Exclude from processing. ###
